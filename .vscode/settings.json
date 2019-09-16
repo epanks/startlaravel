@@ -1,6 +1,7 @@
 {
     "liveServer.settings.port": 8001,
     "cSpell.words": [
+        "CSRF",
         "adminlte",
         "fontawesome",
         "fortawesome",
